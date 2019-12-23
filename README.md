@@ -1,3 +1,8 @@
-"# 2020-projects" 
+# 2020-projects 
 
-"# Goals"
+## Goals
+Start an application security blog
+Learn Python
+Create a GatsbyJS Website
+Create a group of insecure code samples to share
+ursanation content
