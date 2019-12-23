@@ -1,4 +1,5 @@
 # 2020-projects 
+I want to track and manage projects and goals for this year. 
 
 ## Goals
 Start an application security blog
