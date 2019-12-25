@@ -15,3 +15,4 @@ I want to track and manage projects and goals for this year.
 - Ursanation content
 - Create a goals tracking app
 - Research security maturity evaluation
+- Select a certificate to study for
