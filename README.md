@@ -2,6 +2,12 @@
 I want to track and manage projects and goals for this year. 
 
 ## Goals
+Learning
+
+Building
+
+Doing
+
 - Blog with weekly security topics
   - Share security tips
   - Create a list of links and resources
