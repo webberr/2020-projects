@@ -12,12 +12,14 @@ Learning
   - Create a Gatsby Website
   - Create a Gatsby Theme
   - Create a Gatsby Starter
-  - Select a certificate to study for
+- Select a certificate to study for
+    - CSSLP
+    - AWS Security Associate
+- Research security maturity evaluation
   
 Building
 - Ursanation content
 - Create a goals tracking app
-- Research security maturity evaluation
 - Create a group of insecure code samples to share
 
 Doing
