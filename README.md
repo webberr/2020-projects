@@ -13,8 +13,8 @@ Learning
   - Create a Gatsby Theme
   - Create a Gatsby Starter
 - Select a certificate to study for
-    - CSSLP
-    - AWS Security Associate
+    - CSSLP or CISSP
+    - AWS Security Associate or AWS Solutions Architect
 - Research security maturity evaluation
   
 Building
