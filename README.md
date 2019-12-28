@@ -4,7 +4,9 @@ I want to track and manage projects and goals for this year.
 ## Goals
 
 Learning
-
+- Reading List
+  - "threat modeling - designing for security"
+  - "CSSLP - Exam Guide"
 - Learn Python
   - Finish Python the Boring stuff
   - Python for Security Udemy Course
@@ -13,8 +15,10 @@ Learning
   - Create a Gatsby Theme
   - Create a Gatsby Starter
 - Select a certificate to study for
-    - CSSLP or CISSP
-    - AWS Security Associate or AWS Solutions Architect
+    - CSSLP or ~~CISSP~~
+      CISSP requires five years of experience and I am 15 months away and lacking broad experience. CSSLP will allow me to focus on           software security and architecture. The CSSLP certification only requires 4 years of experience and I am 3 months away which is a 
+      good amount of time to study and review while reinforcing my knowledge. 
+    - ~~AWS Security Associate~~ or AWS Solutions Architect Associate
 - Research security maturity evaluation
   
 Building
@@ -27,6 +31,7 @@ Doing
   - Share security tips
   - Create a list of links and resources
   - Create duplicate secure demos of existing popular tutorials 
+- Outline Security Framework
 
 
 
