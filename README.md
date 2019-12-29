@@ -18,7 +18,7 @@ Learning
     - CSSLP or ~~CISSP~~
       CISSP requires five years of experience and I am 15 months away and lacking broad experience. CSSLP will allow me to focus on           software security and architecture. The CSSLP certification only requires 4 years of experience and I am 3 months away which is a 
       good amount of time to study and review while reinforcing my knowledge. 
-    - ~~AWS Security Associate~~ or AWS Solutions Architect Associate
+    - ~~AWS Security Associate~~ or AWS Certified Solutions Architect - Associate
 - Research security maturity evaluation
   
 Building
@@ -32,6 +32,8 @@ Doing
   - Create a list of links and resources
   - Create duplicate secure demos of existing popular tutorials 
 - Outline Security Framework to evaluate team security maturity
+- Continue studying for AWS Certified Solutions Architect - Associate starting in December 2019
+- Start studying for CSSLP from January to March and follow up with progress
 
 
 
