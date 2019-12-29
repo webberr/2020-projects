@@ -31,7 +31,7 @@ Doing
   - Share security tips
   - Create a list of links and resources
   - Create duplicate secure demos of existing popular tutorials 
-- Outline Security Framework
+- Outline Security Framework to evaluate team security maturity
 
 
 
