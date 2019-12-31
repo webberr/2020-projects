@@ -33,10 +33,8 @@ Doing
   - Create duplicate secure demos of existing popular tutorials 
 - Outline Security Framework to evaluate team security maturity
 - Continue studying for AWS Certified Solutions Architect - Associate starting in December 2019
+  - ~~A Cloud guru course material - Chapter 1~~
+  - ~~A Cloud guru course material - Chapter 2~~
 - Start studying for CSSLP from January to March and follow up with progress
-
-
-
-
-
-
+  - https://www.isc2.org/Training/Self-Study-Resources/Flashcards/CSSLP
+  - Read CSSLP ch 1
