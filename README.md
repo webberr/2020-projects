@@ -4,7 +4,7 @@ I want to track and manage projects and goals for this year.
 ## Goals
 
 Learning
-- Reading List
+- Reading List: Tracking with Goodreads
   - "threat modeling - designing for security"
   - "CSSLP - Exam Guide"
 - Learn Python
