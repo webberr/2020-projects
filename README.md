@@ -8,7 +8,7 @@ Learning
   - "threat modeling - designing for security"
   - "CSSLP - Exam Guide"
 - Learn Python
-  - Finish Python the Boring stuff
+  - Python the Boring stuff - web scraping
   - Python for Security Udemy Course
 - Learn GatsbyJS
   - Create a Gatsby Website
@@ -27,6 +27,7 @@ Building
 - Create a group of insecure code samples to share
 
 Doing
+- Crawl Shopify sites with Python
 - Blog with weekly security topics
   - Share security tips
   - Create a list of links and resources
@@ -37,4 +38,4 @@ Doing
   - ~~A Cloud guru course material - Chapter 2~~
 - Start studying for CSSLP from January to March and follow up with progress
   - https://www.isc2.org/Training/Self-Study-Resources/Flashcards/CSSLP
-  - Read CSSLP ch 1
+  - ~~Read CSSLP ch 1~~
