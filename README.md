@@ -9,6 +9,8 @@ Learning
   - "CSSLP - Exam Guide"
 - Learn Python
   - Python the Boring stuff - web scraping
+  - Scrapy Tutorial #1: Scrapy VS Beautiful Soup | AccordBox - https://www.accordbox.com/blog/scrapy-tutorial-1-scrapy-vs-beautiful-soup/
+  - 
   - Python for Security Udemy Course
 - Learn GatsbyJS
   - Create a Gatsby Website
@@ -27,7 +29,8 @@ Building
 - Create a group of insecure code samples to share
 
 Doing
-- Crawl Shopify sites with Python
+- Crawl Shopify sites with Python 
+  - Find the name (Shopify.theme = {"name":"Pipsnacks 2019","id":76690260070,"theme_store_id":836,"role":"main"};)
 - Blog with weekly security topics
   - Share security tips
   - Create a list of links and resources
