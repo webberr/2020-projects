@@ -10,7 +10,7 @@ Learning
 - Learn Python
   - Python the Boring stuff - web scraping
   - Scrapy Tutorial #1: Scrapy VS Beautiful Soup | AccordBox - https://www.accordbox.com/blog/scrapy-tutorial-1-scrapy-vs-beautiful-soup/
-  - 
+  - https://automatetheboringstuff.com/chapter11
   - Python for Security Udemy Course
 - Learn GatsbyJS
   - Create a Gatsby Website
