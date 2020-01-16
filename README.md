@@ -42,3 +42,5 @@ Doing
 - Start studying for CSSLP from January to March and follow up with progress
   - https://www.isc2.org/Training/Self-Study-Resources/Flashcards/CSSLP
   - ~~Read CSSLP ch 1~~
+  - ~~Read CSSLP ch 2~~
+  - Downloaded audio book for CSSLP
